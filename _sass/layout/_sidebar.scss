@@ -149,13 +149,15 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 150px;
+    height: 150px;
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+     object-fit: cover;
 
     @include breakpoint($large) {
       padding: 5px;
