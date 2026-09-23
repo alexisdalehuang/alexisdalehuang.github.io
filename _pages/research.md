@@ -20,14 +20,13 @@ Alexis Dale-Huang, "“Becoming a Polar Great Military Power? The Chinese Milita
 
 Alexis Dale-Huang, “Competition in Biological Security: China’s Evolving Approach to the Global Governance of Biological Weapons” (Working Paper).
 
-Alexis Dale-Huang, “Lessons to be Learned? Chinese Views of Armed Conflict.”
--Presented at the 2025 NBR-INDOPACOM PLA Conference
+Alexis Dale-Huang, “Lessons to be Learned? Chinese Views of Armed Conflict" (Presented at the 2025 NBR-INDOPACOM PLA Conference).
 
 ## Selected Publications
 
-Alexis Dale-Huang and Nathan Beauchamp-Mustasfaga, “Chinese Military Thinking at the Crossroads of Biological Security, Biotechnology, and Global Health” in Nadège Rolland, ed., Under the Microscope: China’s Evolving Biotechnology Ecosystem (Seattle, WA: National Bureau of Asian Research, December 2024).
+Alexis Dale-Huang and Nathan Beauchamp-Mustasfaga, “Chinese Military Thinking at the Crossroads of Biological Security, Biotechnology, and Global Health” in Nadège Rolland, ed., _Under the Microscope: China’s Evolving Biotechnology Ecosystem_ (Seattle, WA: National Bureau of Asian Research, December 2024).
 
-Nathan Beauchamp-Mustafaga, Elliot Ji, Alexis Dale-Huang, Cindy Zheng, Gregory Graff, and Dahlia Anne Goldfeld, _Denial Without Disaster - Keeping a U.S.-China Conflict over Taiwan Under the Nuclear Threshold, Vol. 3: China’s Evolving Nuclear Strategy and Nuclear Use Threshold(s) - and Their Future Risk Factors _(Santa Monica, CA: RAND Corporation, November 2024).
+Nathan Beauchamp-Mustafaga, Elliot Ji, Alexis Dale-Huang, Cindy Zheng, Gregory Graff, and Dahlia Anne Goldfeld, _Denial Without Disaster - Keeping a U.S.-China Conflict over Taiwan Under the Nuclear Threshold, Vol. 3: China’s Evolving Nuclear Strategy and Nuclear Use Threshold(s) - and Their Future Risk Factors_ (Santa Monica, CA: RAND Corporation, November 2024).
 
 Howard Wang, Gregory Graff, and Alexis Dale-Huang, _China’s Growing Risk Tolerance in Space: People’s Liberation Army Perspectives and Escalation Dynamics_ (Santa Monica, CA: RAND Corporation, June 2024).
 
