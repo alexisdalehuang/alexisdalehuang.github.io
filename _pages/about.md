@@ -12,6 +12,3 @@ I am a PhD candidate at Princeton University’s School of Public and Internatio
 Dissertation Project
 ======
 Why do states facing persistent existential security threats vary in their ability to implement military change? Although civilian leaders announce new initiatives or reforms, these announcements do not necessarily lead to changes in military strategy, operations, and capabilities. My dissertation project examines how domestic political and military organizational dynamics shape the implementation of military change. Drawing on primary-source analysis of military strategy and capabilities, field interviews, and archival research on historical military decision-making, I compare contemporary Taiwan and South Korea to examine variation in each state’s efforts to implement military change under conditions of existential threat.
-
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
