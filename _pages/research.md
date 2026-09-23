@@ -14,7 +14,7 @@ Alexis Dale-Huang, "Too Little, Too Late? Taiwan's Military Modernization in the
 
 ## Working Papers
 
-Alexis Dale-Huang and Rory Truex, "The Decline of Funding for American China Research: An Analysis of National Science Foundation Grants" (Revise & Resubmit).
+Alexis Dale-Huang and Rory Truex, "The Decline of Funding for American China Research: An Analysis of National Science Foundation Grants" (Resubmitted, Under Review).
 
 Alexis Dale-Huang, "“Becoming a Polar Great Military Power? The Chinese Military’s Aspirations and Challenges in the Arctic” (Resubmitted, Under Review).
 
